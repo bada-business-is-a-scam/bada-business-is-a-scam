@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    letter-spacing: 1.2px;
+    text-align: justify;
+}
+
+.hero_section {
+    height: calc(100vh - 345px);
+}
+
+ul.faqs li {
+    margin-bottom: 20px;
+}
